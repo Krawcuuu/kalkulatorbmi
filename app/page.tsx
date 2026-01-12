@@ -1,4 +1,4 @@
-import { BMICalculator } from "@/components/bmi-calculator"
+import { BMICalculator } from "../components/bmi-calculator"
 
 export default function Home() {
   return (
@@ -7,3 +7,4 @@ export default function Home() {
     </main>
   )
 }
+
