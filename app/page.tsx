@@ -2,9 +2,8 @@ import { BMICalculator } from "../components/bmi-calculator"
 
 export default function Home() {
   return (
-    <main className="min-h-screen flex items-center justify-center bg-background p-4">
+    <main className="min-h-screen flex items-center justify-center p-4">
       <BMICalculator />
     </main>
   )
 }
-
